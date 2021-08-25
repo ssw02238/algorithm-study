@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/0824-0829.md" beforeDir="false" afterPath="$PROJECT_DIR$/0824-0829.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1012/1012.py" beforeDir="false" afterPath="$PROJECT_DIR$/1012/1012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1012/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1012/input.txt" afterDir="false" />
-    </list>
+    <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,33 +14,34 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
-          <entry key="txt" value="5" />
+          <entry key="py" value="5" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="4" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="1282" />
+          <entry key="py" value="2125" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="1282" />
+          <entry key="Python" value="2125" />
         </counts>
       </usages-collector>
     </session>
@@ -52,22 +49,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1012/1012.py">
+        <entry file="file://$PROJECT_DIR$/kakao 2019 오픈채팅방/카카오 2019 오픈채팅방.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="361">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               <folding>
-                <marker date="1629874420405" expanded="true" signature="129:302" ph="..." />
+                <marker date="1629889994925" expanded="true" signature="167:522" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1012/input.txt">
+        <entry file="file://$PROJECT_DIR$/kakao 2019 오픈채팅방/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state>
+              <caret selection-end-column="105" />
             </state>
           </provider>
         </entry>
@@ -96,13 +93,15 @@
         <option value="$PROJECT_DIR$/1052/1052.py" />
         <option value="$PROJECT_DIR$/1012/1012.py" />
         <option value="$PROJECT_DIR$/1012/input.txt" />
+        <option value="$PROJECT_DIR$/kakao 2019 오픈채팅방/input.txt" />
+        <option value="$PROJECT_DIR$/kakao 2019 오픈채팅방/카카오 2019 오픈채팅방.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="808" />
-    <option name="width" value="1122" />
-    <option name="height" value="1049" />
+    <option name="x" value="807" />
+    <option name="width" value="1123" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -146,7 +145,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1012">
+  <component name="RunManager" selected="Python.카카오 2019 오픈채팅방">
+    <configuration name="카카오 2019 오픈채팅방" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1일1알고" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao 2019 오픈채팅방" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao 2019 오픈채팅방/카카오 2019 오픈채팅방.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1012" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,9 +234,11 @@
       <item itemvalue="Python.1106" />
       <item itemvalue="Python.1052" />
       <item itemvalue="Python.1012" />
+      <item itemvalue="Python.카카오 2019 오픈채팅방" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.카카오 2019 오픈채팅방" />
         <item itemvalue="Python.1012" />
         <item itemvalue="Python.1052" />
         <item itemvalue="Python.1106" />
@@ -237,15 +259,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="647" y="0" width="897" height="839" extended-state="0" />
+    <frame x="646" y="0" width="898" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.03139535" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2950058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -309,6 +331,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1012/1012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1012/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -316,12 +345,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1012/1012.py">
+    <entry file="file://$PROJECT_DIR$/kakao 2019 오픈채팅방/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state>
+          <caret selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao 2019 오픈채팅방/카카오 2019 오픈채팅방.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
-            <marker date="1629874420405" expanded="true" signature="129:302" ph="..." />
+            <marker date="1629889994925" expanded="true" signature="167:522" ph="..." />
           </folding>
         </state>
       </provider>
