@@ -3,8 +3,7 @@
 ### 00 소개 
 
 - 목적: 알고리즘 문제 풀이 실력 향상 
-- 일시: 2021.08.24~
-- Notion `https://www.notion.so/d3e46ece0bff4d62a7c24a71660eb4a4`
+- 일시: 2021.08.24 - 
 
 
 
@@ -19,6 +18,11 @@
 
 
 
-### 02 노션 일부 첨부 
+### [02 노션 일부 첨부](https://www.notion.so/d3e46ece0bff4d62a7c24a71660eb4a4) 
 
 ![image-20210825161341265](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20210825161341265.png)
+
+
+
+### [03 코딩테스트 준비]
+
