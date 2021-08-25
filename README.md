@@ -18,9 +18,9 @@
 
 
 
-### [02 노션 일부 첨부](https://www.notion.so/d3e46ece0bff4d62a7c24a71660eb4a4) 
+### [02 노션 첨부](https://www.notion.so/d3e46ece0bff4d62a7c24a71660eb4a4) 
 
-![image-20210825215208109](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20210825215208109.png)
+
 
 ### [03 코딩테스트 준비](https://github.com/ssw02238/algorithm-study/blob/master/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A4%80%EB%B9%84.md)
 
