@@ -4,9 +4,13 @@ sys.stdin = open('input.txt')
 dx = [0, 0, -1, 1]
 dy = [1, -1, 0, 0]
 
-def solution(matrix):
-    for i in range(N):
-        for j in range(M):
+def solution(matrix, y, x):
+    matrix[y][x] = 0
+    for i in range(4):
+        nx = x + dx[i]
+        ny = y + dy[i]
+        if 0 <= nx < M and 0 <= ny < N and matrix[ny][nx] == 1:
+            solution(matrix, ny, nx)
 
 
 T = int(input())
@@ -19,5 +23,11 @@ for i in range(1, T+1):
         x, y = map(int, input().split())
         matrix[y][x] = 1
     # 세팅 완료
+    answer = 0
+    for y in range(N):
+        for x in range(M):
+            if matrix[y][x] == 1:
+                solution(matrix, y, x)
+                answer += 1
 
-    print(solution(matrix))
+    print(answer)
