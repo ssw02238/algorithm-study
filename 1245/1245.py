@@ -14,4 +14,4 @@ def solution(x, y):
 
 for i in range(n):
     for j in range(m):
-        
+        solution(n, m)
