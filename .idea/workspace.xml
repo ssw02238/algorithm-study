@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/0824-0829.md" beforeDir="false" afterPath="$PROJECT_DIR$/0824-0829.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0830-0905.md" beforeDir="false" afterPath="$PROJECT_DIR$/0830-0905.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,55 +16,58 @@
         <counts>
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="11" />
-          <entry key="txt" value="10" />
+          <entry key="py" value="12" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="11" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="6467" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="7494" />
+          <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="6467" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="Python" value="7494" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1431/1431.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/18809/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="38">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1431/input.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/18809/18809.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="438">
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+              <folding>
+                <marker date="1630328324361" expanded="true" signature="477:1014" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,13 +107,15 @@
         <option value="$PROJECT_DIR$/kakao 2018 다트게임/다트게임.py" />
         <option value="$PROJECT_DIR$/1431/input.txt" />
         <option value="$PROJECT_DIR$/1431/1431.py" />
+        <option value="$PROJECT_DIR$/18809/input.txt" />
+        <option value="$PROJECT_DIR$/18809/18809.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="688" />
-    <option name="width" value="1239" />
-    <option name="height" value="1038" />
+    <option name="x" value="915" />
+    <option name="width" value="1013" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -149,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1431">
+  <component name="RunManager" selected="Python.18809">
     <configuration name="다트게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kakao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="18809" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao2018직업군추천하기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18809" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao2018직업군추천하기/kakao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18809/18809.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,19 +261,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.kakao" />
       <item itemvalue="Python.1245" />
       <item itemvalue="Python.18352" />
       <item itemvalue="Python.다트게임" />
       <item itemvalue="Python.1431" />
+      <item itemvalue="Python.18809" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.18809" />
         <item itemvalue="Python.1431" />
         <item itemvalue="Python.다트게임" />
         <item itemvalue="Python.18352" />
         <item itemvalue="Python.1245" />
-        <item itemvalue="Python.kakao" />
       </list>
     </recent_temporary>
   </component>
@@ -286,15 +291,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="551" y="0" width="991" height="830" extended-state="0" />
+    <frame x="732" y="0" width="810" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2505241" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25026178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24568966" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24533716" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.25862068" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,6 +463,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1431/1431.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1431/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -465,10 +477,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1431/1431.py">
+    <entry file="file://$PROJECT_DIR$/18809/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="38">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18809/18809.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <marker date="1630328324361" expanded="true" signature="477:1014" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
