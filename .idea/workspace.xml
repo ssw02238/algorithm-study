@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0830-0905.md" beforeDir="false" afterPath="$PROJECT_DIR$/0830-0905.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,57 +17,49 @@
         <counts>
           <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="14" />
+          <entry key="py" value="15" />
           <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="14" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="9491" />
+          <entry key="py" value="11214" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="9491" />
+          <entry key="Python" value="11214" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15686_치킨배달/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15686_치킨배달/15686.py">
+        <entry file="file://$PROJECT_DIR$/kakao 2018 후보키/kakao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="28" />
+            <state relative-caret-position="-57">
+              <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1630496793824" expanded="true" signature="1240:1474" ph="..." />
+                <marker date="1630496793824" expanded="true" signature="1240:1500" ph="..." />
               </folding>
             </state>
           </provider>
@@ -113,12 +106,14 @@
         <option value="$PROJECT_DIR$/14889_스타트와링크/14489.py" />
         <option value="$PROJECT_DIR$/15686_치킨배달/input.txt" />
         <option value="$PROJECT_DIR$/15686_치킨배달/15686.py" />
+        <option value="$PROJECT_DIR$/kakao 2018 후보키/kakao.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="340" />
-    <option name="width" value="1589" />
+    <option name="x" value="951" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -158,28 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.15686">
-    <configuration name="다트게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1일1알고" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao 2018 다트게임" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao 2018 다트게임/다트게임.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.kakao">
     <configuration name="1431" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,20 +238,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="kakao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1일1알고" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kakao 2018 후보키" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kakao 2018 후보키/kakao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.다트게임" />
       <item itemvalue="Python.1431" />
       <item itemvalue="Python.18809" />
       <item itemvalue="Python.14489" />
       <item itemvalue="Python.15686" />
+      <item itemvalue="Python.kakao" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.kakao" />
         <item itemvalue="Python.15686" />
         <item itemvalue="Python.14489" />
         <item itemvalue="Python.18809" />
         <item itemvalue="Python.1431" />
-        <item itemvalue="Python.다트게임" />
       </list>
     </recent_temporary>
   </component>
@@ -295,16 +290,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="272" y="0" width="1271" height="838" extended-state="0" />
+    <frame x="761" y="-7" width="782" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24939272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24289773" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40198863" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.265625" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40141845" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -359,11 +354,17 @@
       <configuration name="PythonConfigurationType">
         <watch expression="distance" language="Python" />
         <watch expression="case" language="Python" />
+        <watch expression="content" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>content</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>case</expression-string>
         <language-id>Python</language-id>
@@ -566,6 +567,17 @@
           <caret selection-end-line="28" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao 2018 후보키/kakao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+          <folding>
+            <marker date="1630496793824" expanded="true" signature="1240:1474" ph="..." />
+            <marker date="1630496793824" expanded="true" signature="1240:1500" ph="..." />
           </folding>
         </state>
       </provider>
