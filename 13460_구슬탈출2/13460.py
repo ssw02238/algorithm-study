@@ -22,6 +22,7 @@ def solution(matrix, answer):
     global answer
     dx = [0, 0, -1, 1]
     dy = [-1, 1, 0, 0]
+    # 여기서 같이 동반자로 간 다음에 체크해야 했음 ㅠ
     while queueR:
         rsx, rsy = queueR[0][0], queueR[0][1]
         if matrix[rsy][rsx] == 'O':
@@ -36,7 +37,7 @@ def solution(matrix, answer):
             if matrix[rny][rnx] == '#':
                 pass
                 if matrix[bny][bnx] == '.':
-                    
+
             elif matrix[rny][rnx] == '.':
                 queueR.append((rny, rnx))
                 solution(matrix, answer +1)

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0830-0905.md" beforeDir="false" afterPath="$PROJECT_DIR$/0830-0905.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13460_구슬탈출2/13460.py" beforeDir="false" afterPath="$PROJECT_DIR$/13460_구슬탈출2/13460.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +14,7 @@
     <session id="1135741578">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="8" />
           <entry key="project.open.time.6" value="3" />
@@ -25,50 +24,40 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="18" />
+          <entry key="py" value="19" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="18" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="14915" />
+          <entry key="py" value="14950" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="14915" />
+          <entry key="Python" value="14950" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/13460_구슬탈출2/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/13460_구슬탈출2/answer.py">
+        <entry file="file://$PROJECT_DIR$/13460_구슬탈출2/13460.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="70" column="55" lean-forward="true" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
+            <state relative-caret-position="228">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <marker date="1630587615327" expanded="true" signature="400:538" ph="..." />
+                <marker date="1630588088767" expanded="true" signature="1277:1281" ph="..." />
               </folding>
             </state>
           </provider>
@@ -118,8 +107,8 @@
         <option value="$PROJECT_DIR$/kakao 2018 후보키/kakao.py" />
         <option value="$PROJECT_DIR$/kakao 2018 후보키/answer.py" />
         <option value="$PROJECT_DIR$/13460_구슬탈출2/input.txt" />
-        <option value="$PROJECT_DIR$/13460_구슬탈출2/13460.py" />
         <option value="$PROJECT_DIR$/13460_구슬탈출2/answer.py" />
+        <option value="$PROJECT_DIR$/13460_구슬탈출2/13460.py" />
       </list>
     </option>
   </component>
@@ -143,6 +132,11 @@
             <path>
               <item name="1일1알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="1일1알고" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1일1알고" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1일1알고" type="462c0819:PsiDirectoryNode" />
+              <item name="13460_구슬탈출2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -303,14 +297,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24670051" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24653007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25852272" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25852272" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40198863" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -614,6 +607,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/13460_구슬탈출2/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="70" column="55" lean-forward="true" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1630587615327" expanded="true" signature="400:538" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/13460_구슬탈출2/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -623,21 +627,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/13460_구슬탈출2/13460.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="228">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
           <folding>
-            <marker date="1630586034613" expanded="true" signature="1263:1267" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13460_구슬탈출2/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="70" column="55" lean-forward="true" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1630587615327" expanded="true" signature="400:538" ph="..." />
+            <marker date="1630588088767" expanded="true" signature="1277:1281" ph="..." />
           </folding>
         </state>
       </provider>
