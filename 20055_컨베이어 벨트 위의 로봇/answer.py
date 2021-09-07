@@ -1,4 +1,5 @@
 # 시간 초과 해결
+
 from collections import deque
 
 n, k = map(int, input().split())
