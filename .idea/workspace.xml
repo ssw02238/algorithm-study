@@ -12,7 +12,7 @@
     <session id="1135741578">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="13" />
           <entry key="project.open.time.5" value="1" />
@@ -37,14 +37,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="24841" />
+          <entry key="py" value="24924" />
           <entry key="txt" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="98" />
-          <entry key="Python" value="24841" />
+          <entry key="Python" value="24924" />
         </counts>
       </usages-collector>
     </session>
@@ -63,10 +63,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/11725_트리의 부모 찾기/11725.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="14" />
+            <state relative-caret-position="361">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
-                <marker date="1631321798291" expanded="true" signature="229:643" ph="..." />
+                <marker date="1631322030723" expanded="true" signature="229:643" ph="..." />
               </folding>
             </state>
           </provider>
@@ -325,14 +325,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="824" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.37283623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25852272" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2637681" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3963068" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -845,10 +846,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11725_트리의 부모 찾기/11725.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="14" />
+        <state relative-caret-position="361">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
-            <marker date="1631321798291" expanded="true" signature="229:643" ph="..." />
+            <marker date="1631322030723" expanded="true" signature="229:643" ph="..." />
           </folding>
         </state>
       </provider>
