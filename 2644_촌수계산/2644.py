@@ -23,14 +23,19 @@ cnt = 0
 def solution(person1, person2):
     global cnt
     if children[person1]:
-        cnt += 1
+        cnt += 10
         parent = children[person1][0]
+        if parent == person2:
+            return cnt
     else:
-        return -1
+        cnt =  -1
+        return cnt
     if person2 in parents[parent]:
         cnt += 1
         return cnt
     solution(parent, person2)
+    if cnt == -1:
+        return cnt
     return cnt
 
 
