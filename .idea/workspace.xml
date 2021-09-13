@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="" />
+    <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/2644_촌수계산/2644.py" beforeDir="false" afterPath="$PROJECT_DIR$/2644_촌수계산/2644.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2644_촌수계산/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2644_촌수계산/input.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,59 +18,60 @@
           <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="13" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="5" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="input" value="1" />
-          <entry key="py" value="40" />
-          <entry key="txt" value="26" />
+          <entry key="py" value="41" />
+          <entry key="txt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="40" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Python" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="24924" />
-          <entry key="txt" value="94" />
+          <entry key="py" value="25836" />
+          <entry key="txt" value="124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="98" />
-          <entry key="Python" value="24924" />
+          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="Python" value="25836" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11725_트리의 부모 찾기/input.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2644_촌수계산/2644.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="293">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <marker date="1631525692493" expanded="true" signature="585:849" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11725_트리의 부모 찾기/11725.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2644_촌수계산/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding>
-                <marker date="1631322030723" expanded="true" signature="229:643" ph="..." />
-              </folding>
+            <state relative-caret-position="19">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -87,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1052/input.txt" />
-        <option value="$PROJECT_DIR$/1052/1052.py" />
         <option value="$PROJECT_DIR$/1012/input.txt" />
         <option value="$PROJECT_DIR$/kakao 2019 오픈채팅방/input.txt" />
         <option value="$PROJECT_DIR$/kakao 2019 오픈채팅방/카카오 2019 오픈채팅방.py" />
@@ -138,12 +140,14 @@
         <option value="$PROJECT_DIR$/20300_서강근육맨/20300.py" />
         <option value="$PROJECT_DIR$/11725_트리의 부모 찾기/input.txt" />
         <option value="$PROJECT_DIR$/11725_트리의 부모 찾기/11725.py" />
+        <option value="$PROJECT_DIR$/2644_촌수계산/2644.py" />
+        <option value="$PROJECT_DIR$/2644_촌수계산/input.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
+    <option name="x" value="611" />
+    <option name="width" value="1318" />
     <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -161,6 +165,11 @@
             <path>
               <item name="1일1알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="1일1알고" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1일1알고" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1일1알고" type="462c0819:PsiDirectoryNode" />
+              <item name="2644_촌수계산" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11725">
+  <component name="RunManager" selected="Python.2644">
     <configuration name="11725" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,7 +282,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="answer2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2644" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,11 +290,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_challenge_풍선터트리기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2644_촌수계산" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_challenge_풍선터트리기/answer2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2644_촌수계산/2644.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,19 +304,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.answer2" />
       <item itemvalue="Python.20115" />
       <item itemvalue="Python.2048 EASY" />
       <item itemvalue="Python.20300" />
       <item itemvalue="Python.11725" />
+      <item itemvalue="Python.2644" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2644" />
         <item itemvalue="Python.11725" />
         <item itemvalue="Python.20300" />
         <item itemvalue="Python.2048 EASY" />
         <item itemvalue="Python.20115" />
-        <item itemvalue="Python.answer2" />
       </list>
     </recent_temporary>
   </component>
@@ -325,16 +334,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="824" extended-state="0" />
-    <editor active="true" />
+    <frame x="489" y="0" width="1054" height="824" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.37283623" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.37181208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2637681" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3963068" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39565217" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -432,15 +440,16 @@
           <line>12</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2644_촌수계산/2644.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="trees" language="Python" />
-        <watch expression="parents" language="Python" />
-        <watch expression="node" language="Python" />
-        <watch expression="que" language="Python" />
-        <watch expression="check" language="Python" />
+        <watch expression="parent" language="Python" />
       </configuration>
     </watches-manager>
   </component>
@@ -499,20 +508,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kakao 2019 오픈채팅방/카카오 2019 오픈채팅방.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kakao 2019 오픈채팅방/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kakao2018직업군추천하기/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -837,6 +832,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/11725_트리의 부모 찾기/11725.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <marker date="1631322030723" expanded="true" signature="229:643" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/11725_트리의 부모 찾기/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -844,12 +849,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11725_트리의 부모 찾기/11725.py">
+    <entry file="file://$PROJECT_DIR$/2644_촌수계산/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="19">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2644_촌수계산/2644.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
-            <marker date="1631322030723" expanded="true" signature="229:643" ph="..." />
+            <marker date="1631525692493" expanded="true" signature="585:849" ph="..." />
           </folding>
         </state>
       </provider>
