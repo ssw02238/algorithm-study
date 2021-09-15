@@ -20,7 +20,7 @@ grid.append(list(temp[slice_idx+1:-1]))
 start = (0,0)
 visit = []
 dir = ['L', 'R', 'S']
-# 2. 경로 누적
+# 2. 경로 누적 (참고)
 def solution(grid):
     global visit
     for i in range(4):
@@ -28,10 +28,6 @@ def solution(grid):
             for dir in range(3):
                 if not visit[i][j][dir]:
                     x, y, z = i, j, dir
-
-
-
-
 
 print(solution(grid))
 
