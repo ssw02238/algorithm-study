@@ -209,28 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer2">
-    <configuration name="빛의 경로 사이클" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1일1알고" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code challenge_빛의 경로 사이클" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code challenge_빛의 경로 사이클/빛의 경로 사이클.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.answer3">
     <configuration name="16234" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,20 +294,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="answer3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1일1알고" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/멀쩡한 사각형" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/멀쩡한 사각형/answer3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.빛의 경로 사이클" />
       <item itemvalue="Python.17073" />
       <item itemvalue="Python.16234" />
       <item itemvalue="Python.answer" />
       <item itemvalue="Python.answer2" />
+      <item itemvalue="Python.answer3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer3" />
         <item itemvalue="Python.answer2" />
         <item itemvalue="Python.answer" />
         <item itemvalue="Python.16234" />
         <item itemvalue="Python.17073" />
-        <item itemvalue="Python.빛의 경로 사이클" />
       </list>
     </recent_temporary>
   </component>
