@@ -63,14 +63,14 @@ def bfs(ng):
                 y1, x1 = empty_list[i]
                 y2, x2 = empty_list[j]
                 y3, x3 = empty_list[k]
-                g[y1][x1] = WALL
-                g[y2][x2] = WALL
-                g[y3][x3] = WALL
+                g[y1][x1] = wall
+                g[y2][x2] = wall
+                g[y3][x3] = wall
 
                 ng = copy.deepcopy(g)
                 bfs(ng)
-                g[y1][x1] = EMPTY
-                g[y2][x2] = EMPTY
-                g[y3][x3] = EMPTY
+                g[y1][x1] = empty
+                g[y2][x2] = empty
+                g[y3][x3] = empty
 print(max_num)
 
