@@ -1,5 +1,5 @@
-N = 4
-K = 6
+N = 2
+K = 7
 
 def solution(start):
     if N < K and N == 0:
