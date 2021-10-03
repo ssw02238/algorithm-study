@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="" />
+    <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,42 +14,42 @@
     <session id="1135741578">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="42" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="22" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.6" value="8" />
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="43" />
+          <entry key="project.opened" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="input" value="1" />
-          <entry key="py" value="101" />
-          <entry key="txt" value="52" />
+          <entry key="py" value="105" />
+          <entry key="txt" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="53" />
-          <entry key="Python" value="101" />
+          <entry key="PLAIN_TEXT" value="54" />
+          <entry key="Python" value="105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="34" />
-          <entry key="py" value="56182" />
+          <entry key="py" value="57060" />
           <entry key="txt" value="311" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="345" />
-          <entry key="Python" value="56182" />
+          <entry key="Python" value="57060" />
         </counts>
       </usages-collector>
     </session>
@@ -55,13 +57,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2X n 타일링/2 x n 타일링.py">
+        <entry file="file://$PROJECT_DIR$/2210_숫자판 점프/2210.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-              <folding>
-                <marker date="1633181366600" expanded="true" signature="143:148" ph="..." />
-              </folding>
+            <state relative-caret-position="437">
+              <caret line="23" column="18" lean-forward="true" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -86,8 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1325_효율적인 해킹/input.txt" />
-        <option value="$PROJECT_DIR$/1325_효율적인 해킹/answer.py" />
         <option value="$PROJECT_DIR$/1325_효율적인 해킹/answer2.py" />
         <option value="$PROJECT_DIR$/1325_효율적인 해킹/1325.py" />
         <option value="$PROJECT_DIR$/구명보트/answer.py" />
@@ -137,13 +134,15 @@
         <option value="$PROJECT_DIR$/programmers_짝지어 제거하기/짝지어 제거하기.py" />
         <option value="$PROJECT_DIR$/programmers_짝지어 제거하기/answer.py" />
         <option value="$PROJECT_DIR$/2X n 타일링/2 x n 타일링.py" />
+        <option value="$PROJECT_DIR$/2210_숫자판 점프/input.txt" />
+        <option value="$PROJECT_DIR$/2210_숫자판 점프/2210.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="732" />
-    <option name="width" value="1197" />
-    <option name="height" value="1048" />
+    <option name="x" value="720" />
+    <option name="width" value="1209" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -153,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,7 +164,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2 x n 타일링">
+  <component name="RunManager" selected="Python.2210">
     <configuration name="짝지어 제거하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3048" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2210" type="PythonConfigurationType" factoryName="Python">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,11 +301,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3048_개미" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2210_숫자판 점프" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3048_개미/3048.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2210_숫자판 점프/2210.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,8 +315,8 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.2210" />
       <item itemvalue="Python.1543문서찾기" />
-      <item itemvalue="Python.3048" />
       <item itemvalue="Python.17204" />
       <item itemvalue="Python.14719" />
       <item itemvalue="Python.짝지어 제거하기" />
@@ -329,7 +328,6 @@
         <item itemvalue="Python.짝지어 제거하기" />
         <item itemvalue="Python.14719" />
         <item itemvalue="Python.17204" />
-        <item itemvalue="Python.3048" />
       </list>
     </recent_temporary>
   </component>
@@ -347,16 +345,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="586" y="0" width="957" height="838" extended-state="0" />
+    <frame x="576" y="0" width="967" height="839" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.19565217" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.19543974" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49573863" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2496454" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.076595746" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -611,9 +609,25 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="make" language="Python" />
+        <watch expression="answer" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>answer</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>make</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>start</expression-string>
         <language-id>Python</language-id>
@@ -654,22 +668,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>idx</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Program Files/Python35/Lib/copy.py" />
-    <entry file="file://$PROJECT_DIR$/1325_효율적인 해킹/answer2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1325_효율적인 해킹/1325.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -940,13 +941,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3048_개미/3048.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1000,19 +994,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="15" selection-end-column="16" />
-          <folding>
-            <marker date="1633177933562" expanded="true" signature="18:23" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2X n 타일링/2 x n 타일링.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="15" />
           <folding>
-            <marker date="1633181366600" expanded="true" signature="143:148" ph="..." />
+            <marker date="1633181528813" expanded="true" signature="274:279" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2210_숫자판 점프/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2210_숫자판 점프/2210.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="18" lean-forward="true" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>
