@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1004-1011.md" beforeDir="false" afterPath="$PROJECT_DIR$/1004-1011.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +15,7 @@
     <session id="1135741578">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="43" />
+          <entry key="project.closed" value="44" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="22" />
@@ -29,43 +30,50 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="input" value="1" />
-          <entry key="py" value="108" />
+          <entry key="py" value="110" />
           <entry key="txt" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="59" />
-          <entry key="Python" value="108" />
+          <entry key="Python" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="34" />
-          <entry key="py" value="60403" />
+          <entry key="py" value="61007" />
           <entry key="txt" value="311" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="345" />
-          <entry key="Python" value="60403" />
+          <entry key="Python" value="61007" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/weekly_최소직사각형/최소직사각형.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/땅따먹기/땅따먹기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="17" />
               <folding>
-                <marker date="1633434798135" expanded="true" signature="70:75" ph="..." />
-                <marker date="1633434798135" expanded="true" signature="70:401" ph="..." />
-                <marker date="1633434798135" expanded="true" signature="70:402" ph="..." />
+                <marker date="1633439030910" expanded="true" signature="59:529" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/땅따먹기/answer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -90,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2304_창고 다각형/input.txt" />
-        <option value="$PROJECT_DIR$/2304_창고 다각형/2304-2.py" />
         <option value="$PROJECT_DIR$/14502_창고/input.txt" />
         <option value="$PROJECT_DIR$/14502_창고/14502.py" />
         <option value="$PROJECT_DIR$/14502_창고/answer.py" />
@@ -141,6 +147,8 @@
         <option value="$PROJECT_DIR$/1260_DFS와 BFS/1260.py" />
         <option value="$PROJECT_DIR$/1260_DFS와 BFS/input.txt" />
         <option value="$PROJECT_DIR$/weekly_최소직사각형/최소직사각형.py" />
+        <option value="$PROJECT_DIR$/땅따먹기/땅따먹기.py" />
+        <option value="$PROJECT_DIR$/땅따먹기/answer.py" />
       </list>
     </option>
   </component>
@@ -192,28 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.최소직사각형">
-    <configuration name="짝지어 제거하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1일1알고" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers_짝지어 제거하기" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers_짝지어 제거하기/짝지어 제거하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.땅따먹기">
     <configuration name="최소직사각형" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -298,6 +285,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="땅따먹기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1일1알고" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/땅따먹기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/땅따먹기/땅따먹기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2210" type="PythonConfigurationType" factoryName="Python">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -343,19 +351,19 @@
     <list>
       <item itemvalue="Python.2210" />
       <item itemvalue="Python.1543문서찾기" />
-      <item itemvalue="Python.짝지어 제거하기" />
       <item itemvalue="Python.2 x n 타일링" />
       <item itemvalue="Python.3184" />
       <item itemvalue="Python.1260" />
       <item itemvalue="Python.최소직사각형" />
+      <item itemvalue="Python.땅따먹기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.땅따먹기" />
         <item itemvalue="Python.최소직사각형" />
         <item itemvalue="Python.1260" />
         <item itemvalue="Python.3184" />
         <item itemvalue="Python.2 x n 타일링" />
-        <item itemvalue="Python.짝지어 제거하기" />
       </list>
     </recent_temporary>
   </component>
@@ -378,11 +386,11 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.19254659" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.19226637" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25251076" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42385057" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25251076" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42324248" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -645,14 +653,13 @@
           <line>16</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/땅따먹기/땅따먹기.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="queue" language="Python" />
-        <watch expression="bfs_lst" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -709,16 +716,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2304_창고 다각형/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2304_창고 다각형/2304-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14502_창고/14502.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
@@ -1065,13 +1062,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/weekly_최소직사각형/최소직사각형.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="22" />
           <folding>
-            <marker date="1633434798135" expanded="true" signature="70:75" ph="..." />
-            <marker date="1633434798135" expanded="true" signature="70:401" ph="..." />
-            <marker date="1633434798135" expanded="true" signature="70:402" ph="..." />
+            <marker date="1633434814522" expanded="true" signature="75:80" ph="..." />
+            <marker date="1633434814522" expanded="true" signature="75:406" ph="..." />
+            <marker date="1633434814522" expanded="true" signature="75:407" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/땅따먹기/땅따먹기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <marker date="1633439030910" expanded="true" signature="59:529" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/땅따먹기/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
