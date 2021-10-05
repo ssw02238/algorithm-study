@@ -1,8 +1,5 @@
-## 1004-1011
+sizes = [[14, 4], [19, 6], [6, 16], [18, 7], [7, 11]]
 
-#### 위클리 챌린지_최소 직사각형
-
-```python
 def solution(sizes):
     a, b = 0, 0
     width = []
@@ -17,7 +14,5 @@ def solution(sizes):
         if min(tmp[0], tmp[1]) > b:
             b = min(tmp[0], tmp[1])
     return a * b
-```
 
-
-
+print(solution(sizes))
