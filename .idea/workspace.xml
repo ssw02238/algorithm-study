@@ -153,9 +153,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="718" />
+    <option name="x" value="717" />
     <option name="width" value="1210" />
-    <option name="height" value="1039" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -200,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.땅따먹기">
+  <component name="RunManager" selected="Python.2210">
     <configuration name="최소직사각형" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -285,27 +285,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="땅따먹기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1일1알고" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/땅따먹기" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/땅따먹기/땅따먹기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="2210" type="PythonConfigurationType" factoryName="Python">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -348,6 +327,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="땅따먹기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1일1알고" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/땅따먹기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/땅따먹기/땅따먹기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.2210" />
       <item itemvalue="Python.1543문서찾기" />
@@ -355,11 +355,9 @@
       <item itemvalue="Python.3184" />
       <item itemvalue="Python.1260" />
       <item itemvalue="Python.최소직사각형" />
-      <item itemvalue="Python.땅따먹기" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.땅따먹기" />
         <item itemvalue="Python.최소직사각형" />
         <item itemvalue="Python.1260" />
         <item itemvalue="Python.3184" />
