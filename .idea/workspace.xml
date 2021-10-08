@@ -15,65 +15,62 @@
     <session id="1135741578">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="44" />
+          <entry key="project.closed" value="45" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="22" />
+          <entry key="project.open.time.3" value="24" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="8" />
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="45" />
+          <entry key="project.opened" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="input" value="1" />
-          <entry key="py" value="110" />
-          <entry key="txt" value="58" />
+          <entry key="py" value="111" />
+          <entry key="txt" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="59" />
-          <entry key="Python" value="110" />
+          <entry key="PLAIN_TEXT" value="60" />
+          <entry key="Python" value="111" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="34" />
-          <entry key="py" value="61007" />
+          <entry key="py" value="61693" />
           <entry key="txt" value="311" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="345" />
-          <entry key="Python" value="61007" />
+          <entry key="Python" value="61693" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/땅따먹기/땅따먹기.py">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12904_A와 B/12904.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="17" />
-              <folding>
-                <marker date="1633439030910" expanded="true" signature="59:529" ph="..." />
-              </folding>
+            <state relative-caret-position="287">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/땅따먹기/answer.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12904_A와 B/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="19">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -98,8 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/14502_창고/input.txt" />
-        <option value="$PROJECT_DIR$/14502_창고/14502.py" />
         <option value="$PROJECT_DIR$/14502_창고/answer.py" />
         <option value="$PROJECT_DIR$/kakao_문자열 압축/answer.py" />
         <option value="$PROJECT_DIR$/kakao_문자열 압축/answer2.py" />
@@ -149,12 +144,14 @@
         <option value="$PROJECT_DIR$/weekly_최소직사각형/최소직사각형.py" />
         <option value="$PROJECT_DIR$/땅따먹기/땅따먹기.py" />
         <option value="$PROJECT_DIR$/땅따먹기/answer.py" />
+        <option value="$PROJECT_DIR$/12904_A와 B/input.txt" />
+        <option value="$PROJECT_DIR$/12904_A와 B/12904.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="717" />
-    <option name="width" value="1210" />
+    <option name="x" value="478" />
+    <option name="width" value="1448" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -200,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2210">
+  <component name="RunManager" selected="Python.12904">
     <configuration name="최소직사각형" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,6 +232,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1260_DFS와 BFS/1260.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12904" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1일1알고" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12904_A와 B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12904_A와 B/12904.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,9 +373,11 @@
       <item itemvalue="Python.3184" />
       <item itemvalue="Python.1260" />
       <item itemvalue="Python.최소직사각형" />
+      <item itemvalue="Python.12904" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12904" />
         <item itemvalue="Python.최소직사각형" />
         <item itemvalue="Python.1260" />
         <item itemvalue="Python.3184" />
@@ -379,7 +399,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="575" y="0" width="968" height="831" extended-state="0" />
+    <frame x="383" y="0" width="1158" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
@@ -387,8 +407,8 @@
       <window_info content_ui="combo" id="Project" order="2" weight="0.19226637" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25251076" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42324248" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25071633" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4226361" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -656,8 +676,26 @@
           <line>9</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12904_A와 B/12904.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12904_A와 B/12904.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="a" language="Python" />
+        <watch expression="b" language="Python" />
+        <watch expression="b1" language="Python" />
+        <watch expression="T" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -714,20 +752,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/14502_창고/14502.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14502_창고/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14502_창고/answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1040,11 +1064,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
           <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-          <folding>
-            <marker date="1633235030685" expanded="true" signature="297:463" ph="..." />
-            <marker date="1633235030685" expanded="true" signature="297:488" ph="..." />
-            <marker date="1633235030685" expanded="true" signature="499:742" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1062,11 +1081,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <marker date="1633434814522" expanded="true" signature="75:80" ph="..." />
-            <marker date="1633434814522" expanded="true" signature="75:406" ph="..." />
-            <marker date="1633434814522" expanded="true" signature="75:407" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/땅따먹기/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1080,10 +1101,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/땅따먹기/answer.py">
+    <entry file="file://$PROJECT_DIR$/12904_A와 B/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12904_A와 B/12904.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
