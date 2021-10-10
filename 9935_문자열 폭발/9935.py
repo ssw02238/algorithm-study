@@ -1,6 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
-
+input = sys.stdin.readline
 
 original = input()
 bomb = input()
