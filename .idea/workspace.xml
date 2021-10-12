@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/9935_문자열 폭발/9935.py" beforeDir="false" afterPath="$PROJECT_DIR$/9935_문자열 폭발/9935.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9935_문자열 폭발/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/9935_문자열 폭발/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,43 +19,62 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="24" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="8" />
           <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="48" />
+          <entry key="project.opened" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="input" value="1" />
-          <entry key="py" value="117" />
-          <entry key="txt" value="63" />
+          <entry key="py" value="118" />
+          <entry key="txt" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="64" />
-          <entry key="Python" value="117" />
+          <entry key="PLAIN_TEXT" value="65" />
+          <entry key="Python" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="34" />
-          <entry key="py" value="63698" />
-          <entry key="txt" value="324" />
+          <entry key="py" value="64093" />
+          <entry key="txt" value="331" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="358" />
-          <entry key="Python" value="63698" />
+          <entry key="PLAIN_TEXT" value="365" />
+          <entry key="Python" value="64093" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2847_동준이가 만든ㄱ ㅔ임/2847.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2847_동준이가 만든ㄱ ㅔ임/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,8 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/18429_근손실/18429_근손실.py" />
-        <option value="$PROJECT_DIR$/10655_마라톤1/input.txt" />
         <option value="$PROJECT_DIR$/10655_마라톤1/10655.py" />
         <option value="$PROJECT_DIR$/2636_치즈/2636.py" />
         <option value="$PROJECT_DIR$/1931_회의실 배정/input.txt" />
@@ -127,13 +143,15 @@
         <option value="$PROJECT_DIR$/9935_문자열 폭발/input.txt" />
         <option value="$PROJECT_DIR$/9935_문자열 폭발/9935.py" />
         <option value="$PROJECT_DIR$/9935_문자열 폭발/answer.py" />
+        <option value="$PROJECT_DIR$/2847_동준이가 만든ㄱ ㅔ임/input.txt" />
+        <option value="$PROJECT_DIR$/2847_동준이가 만든ㄱ ㅔ임/2847.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -143,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,7 +178,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9935">
+  <component name="RunManager" selected="Python.2847">
     <configuration name="최소직사각형" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3184" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2847" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,11 +315,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3184_양" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2847_동준이가 만든ㄱ ㅔ임" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3184_양/3184.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2847_동준이가 만든ㄱ ㅔ임/2847.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,19 +373,19 @@
     <list>
       <item itemvalue="Python.2210" />
       <item itemvalue="Python.1543문서찾기" />
-      <item itemvalue="Python.3184" />
       <item itemvalue="Python.1260" />
       <item itemvalue="Python.최소직사각형" />
       <item itemvalue="Python.12904" />
       <item itemvalue="Python.9935" />
+      <item itemvalue="Python.2847" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2847" />
         <item itemvalue="Python.9935" />
         <item itemvalue="Python.12904" />
         <item itemvalue="Python.최소직사각형" />
         <item itemvalue="Python.1260" />
-        <item itemvalue="Python.3184" />
       </list>
     </recent_temporary>
   </component>
@@ -385,14 +403,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="761" y="0" width="782" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.27553764" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.2751678" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25143677" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25107604" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4212766" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -724,20 +743,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/18429_근손실/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20055_컨베이어 벨트 위의 로봇/answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/18429_근손실/18429_근손실.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1084,6 +1089,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2847_동준이가 만든ㄱ ㅔ임/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2847_동준이가 만든ㄱ ㅔ임/2847.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
