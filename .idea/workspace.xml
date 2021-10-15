@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="" />
+    <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1012-1018.md" beforeDir="false" afterPath="$PROJECT_DIR$/1012-1018.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,27 +30,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="input" value="1" />
-          <entry key="py" value="125" />
+          <entry key="py" value="126" />
           <entry key="txt" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="69" />
-          <entry key="Python" value="125" />
+          <entry key="Python" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="34" />
-          <entry key="py" value="67804" />
+          <entry key="py" value="68652" />
           <entry key="txt" value="331" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="365" />
-          <entry key="Python" value="67804" />
+          <entry key="Python" value="68652" />
         </counts>
       </usages-collector>
     </session>
@@ -55,10 +58,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/17144_미세먼지안녕/17144.py">
+        <entry file="file://$PROJECT_DIR$/kakao_자물쇠와열쇠.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+            <state relative-caret-position="3">
+              <caret line="18" column="33" lean-forward="true" selection-end-line="37" selection-end-column="16" />
+              <folding>
+                <marker date="1634305965291" expanded="true" signature="343:723" ph="..." />
+                <marker date="1634305965291" expanded="true" signature="747:752" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/17836_공주님을 구해라/answer.py" />
         <option value="$PROJECT_DIR$/13549_숨바꼭질3/13549.py" />
         <option value="$PROJECT_DIR$/13549_숨바꼭질3/answer.py" />
         <option value="$PROJECT_DIR$/13549_숨바꼭질3/realAnswer.py" />
@@ -134,12 +140,13 @@
         <option value="$PROJECT_DIR$/5635_생일/5635.py" />
         <option value="$PROJECT_DIR$/17144_미세먼지안녕/input.txt" />
         <option value="$PROJECT_DIR$/17144_미세먼지안녕/17144.py" />
+        <option value="$PROJECT_DIR$/kakao_자물쇠와열쇠.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="947" />
-    <option name="width" value="983" />
+    <option name="x" value="735" />
+    <option name="width" value="1194" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -366,15 +373,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="758" y="0" width="786" height="838" extended-state="0" />
+    <frame x="588" y="0" width="955" height="838" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.33188722" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.33110815" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42120343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -712,16 +719,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/13549_숨바꼭질3/realAnswer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/13549_숨바꼭질3/answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1060,8 +1057,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/17144_미세먼지안녕/17144.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        <state>
+          <caret selection-end-line="86" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kakao_자물쇠와열쇠.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="18" column="33" lean-forward="true" selection-end-line="37" selection-end-column="16" />
+          <folding>
+            <marker date="1634305965291" expanded="true" signature="343:723" ph="..." />
+            <marker date="1634305965291" expanded="true" signature="747:752" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
