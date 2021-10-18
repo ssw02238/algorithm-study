@@ -24,3 +24,16 @@
 
 ### [03 코딩테스트 준비](https://github.com/ssw02238/algorithm-study/blob/master/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%A4%80%EB%B9%84.md)
 
+
+
+### 04 월 별 활동
+
+#### 8월 활동
+
+![image](https://user-images.githubusercontent.com/77471673/137727174-e08d1d5b-3423-436a-9b3e-2655fb7bb17e.png)
+
+
+
+#### 9월 활동 
+
+![image](https://user-images.githubusercontent.com/77471673/137727285-6bbe201a-5e84-4942-9afa-e63825c7bace.png)
