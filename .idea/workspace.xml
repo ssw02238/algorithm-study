@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1018-1024.md" beforeDir="false" afterPath="$PROJECT_DIR$/1018-1024.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,67 +14,48 @@
     <session id="1135741578">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="56" />
+          <entry key="project.closed" value="57" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="26" />
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="6" />
-          <entry key="project.open.time.6" value="8" />
+          <entry key="project.open.time.6" value="9" />
           <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="58" />
+          <entry key="project.opened" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="input" value="1" />
-          <entry key="py" value="136" />
-          <entry key="txt" value="73" />
+          <entry key="py" value="138" />
+          <entry key="txt" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="74" />
-          <entry key="Python" value="136" />
+          <entry key="PLAIN_TEXT" value="76" />
+          <entry key="Python" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="40" />
-          <entry key="py" value="72395" />
-          <entry key="txt" value="334" />
+          <entry key="py" value="74909" />
+          <entry key="txt" value="336" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="374" />
-          <entry key="Python" value="72395" />
+          <entry key="PLAIN_TEXT" value="376" />
+          <entry key="Python" value="74909" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4307_개미/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4307_개미/4307.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="26" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,6 +67,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>max</find>
+      <find>answer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -95,10 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3048_개미/input.txt" />
-        <option value="$PROJECT_DIR$/3048_개미/3048.py" />
-        <option value="$PROJECT_DIR$/17204_죽음의 게임/input.txt" />
-        <option value="$PROJECT_DIR$/17204_죽음의 게임/17204.py" />
         <option value="$PROJECT_DIR$/14719_빗물/14719.py" />
         <option value="$PROJECT_DIR$/14719_빗물/input.txt" />
         <option value="$PROJECT_DIR$/programmers_짝지어 제거하기/짝지어 제거하기.py" />
@@ -146,12 +123,16 @@
         <option value="$PROJECT_DIR$/133335_트럭/input.txt" />
         <option value="$PROJECT_DIR$/4307_개미/input.txt" />
         <option value="$PROJECT_DIR$/4307_개미/4307.py" />
+        <option value="$PROJECT_DIR$/ssafy_1/answer.py" />
+        <option value="$PROJECT_DIR$/ssafy_1/input.txt" />
+        <option value="$PROJECT_DIR$/ssafy_2/answer.py" />
+        <option value="$PROJECT_DIR$/ssafy_2/input.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="917" />
-    <option name="width" value="1013" />
+    <option name="x" value="916" />
+    <option name="width" value="1014" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -168,11 +149,6 @@
             <path>
               <item name="1일1알고" type="b2602c69:ProjectViewProjectNode" />
               <item name="1일1알고" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1일1알고" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1일1알고" type="462c0819:PsiDirectoryNode" />
-              <item name="21610_마법사와 비바라기" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4307">
+  <component name="RunManager" selected="Python.answer (1)">
     <configuration name="1012" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4396" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4396_지뢰찾기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ssafy_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4396_지뢰찾기/4396.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ssafy_2/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5567" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,11 +314,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5567_결혼식" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ssafy_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5567_결혼식/5567.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ssafy_1/answer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,19 +330,19 @@
     <list>
       <item itemvalue="Python.2210" />
       <item itemvalue="Python.1543문서찾기" />
-      <item itemvalue="Python.4396" />
-      <item itemvalue="Python.5567" />
       <item itemvalue="Python.133335" />
       <item itemvalue="Python.1012" />
       <item itemvalue="Python.4307" />
+      <item itemvalue="Python.answer" />
+      <item itemvalue="Python.answer (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer (1)" />
+        <item itemvalue="Python.answer" />
         <item itemvalue="Python.4307" />
         <item itemvalue="Python.1012" />
         <item itemvalue="Python.133335" />
-        <item itemvalue="Python.5567" />
-        <item itemvalue="Python.4396" />
       </list>
     </recent_temporary>
   </component>
@@ -384,15 +360,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="734" y="0" width="810" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="733" y="0" width="811" height="832" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.20914286" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20801033" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29369628" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29369628" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41977078" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -739,34 +714,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/17204_죽음의 게임/17204.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14719_빗물/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14719_빗물/14719.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programmers_짝지어 제거하기/짝지어 제거하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programmers_짝지어 제거하기/answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1088,8 +1035,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4307_개미/4307.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssafy_1/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="26" selection-end-column="29" />
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssafy_1/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssafy_2/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssafy_2/answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
