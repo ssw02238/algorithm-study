@@ -37,5 +37,4 @@ def solution(orders, course):
     result.sort()
     return result
 
-
 print(solution(orders, course))
