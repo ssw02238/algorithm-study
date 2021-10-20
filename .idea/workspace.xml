@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67404770-9b0b-476b-acfc-3c34f1142cee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/1일1알고.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1일1알고.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1018-1024.md" beforeDir="false" afterPath="$PROJECT_DIR$/1018-1024.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kakao_메뉴 리뉴얼/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/kakao_메뉴 리뉴얼/answer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/행렬 테두리 회전하기/answer.py" beforeDir="false" afterPath="$PROJECT_DIR$/행렬 테두리 회전하기/answer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,36 +21,36 @@
           <entry key="project.open.time.3" value="27" />
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="6" />
-          <entry key="project.open.time.6" value="9" />
+          <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="61" />
+          <entry key="project.opened" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="input" value="1" />
-          <entry key="py" value="140" />
+          <entry key="py" value="141" />
           <entry key="txt" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="76" />
-          <entry key="Python" value="140" />
+          <entry key="Python" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="40" />
-          <entry key="py" value="77701" />
+          <entry key="py" value="77727" />
           <entry key="txt" value="336" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="376" />
-          <entry key="Python" value="77701" />
+          <entry key="Python" value="77727" />
         </counts>
       </usages-collector>
     </session>
@@ -62,15 +58,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/행렬 테두리 회전하기/answer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="13" selection-end-column="17" />
-              <folding>
-                <marker date="1634739684714" expanded="true" signature="111:1290" ph="..." />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/programmers_완주하지 못한 선수/answer.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -94,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programmers_짝지어 제거하기/짝지어 제거하기.py" />
         <option value="$PROJECT_DIR$/programmers_짝지어 제거하기/answer.py" />
         <option value="$PROJECT_DIR$/2X n 타일링/2 x n 타일링.py" />
         <option value="$PROJECT_DIR$/2210_숫자판 점프/input.txt" />
@@ -145,13 +133,14 @@
         <option value="$PROJECT_DIR$/ssafy_2/input.txt" />
         <option value="$PROJECT_DIR$/kakao_메뉴 리뉴얼/answer.py" />
         <option value="$PROJECT_DIR$/행렬 테두리 회전하기/answer.py" />
+        <option value="$PROJECT_DIR$/programmers_완주하지 못한 선수/answer.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="685" />
-    <option name="width" value="1244" />
-    <option name="height" value="1048" />
+    <option name="x" value="726" />
+    <option name="width" value="1204" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -161,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,6 +171,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.answer (3)">
+  <component name="RunManager" selected="Python.answer (4)">
     <configuration name="1543문서찾기" type="PythonConfigurationType" factoryName="Python">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,27 +231,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2210_숫자판 점프/2210.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4307" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1일1알고" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4307_개미" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4307_개미/4307.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,6 +302,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="answer (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1일1알고" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programmers_완주하지 못한 선수" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programmers_완주하지 못한 선수/answer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="answer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1일1알고" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -358,19 +347,19 @@
     <list>
       <item itemvalue="Python.2210" />
       <item itemvalue="Python.1543문서찾기" />
-      <item itemvalue="Python.4307" />
       <item itemvalue="Python.answer" />
       <item itemvalue="Python.answer (1)" />
       <item itemvalue="Python.answer (2)" />
       <item itemvalue="Python.answer (3)" />
+      <item itemvalue="Python.answer (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.answer (4)" />
         <item itemvalue="Python.answer (3)" />
         <item itemvalue="Python.answer (2)" />
         <item itemvalue="Python.answer (1)" />
         <item itemvalue="Python.answer" />
-        <item itemvalue="Python.4307" />
       </list>
     </recent_temporary>
   </component>
@@ -388,14 +377,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="548" y="0" width="995" height="838" extended-state="0" />
+    <frame x="548" y="0" width="996" height="839" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.20668058" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.20646507" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20170455" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20141844" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.53977275" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -748,13 +738,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2210_숫자판 점프/2210.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="18" lean-forward="true" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3184_양/3184.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -810,13 +793,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/12904_A와 B/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1097,13 +1074,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/행렬 테두리 회전하기/answer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="38">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
           <folding>
-            <marker date="1634739684714" expanded="true" signature="111:1290" ph="..." />
+            <marker date="1634740028750" expanded="true" signature="111:1277" ph="..." />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programmers_완주하지 못한 선수/answer.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

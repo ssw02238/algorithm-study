@@ -11,7 +11,7 @@ def solution(rows, columns, queries):
             matrix[multip-1].append(6*(multip-1)+i)
         multip += 1
     result = []
-    print(matrix)
+    
     while queries:
         candidate = []
         x1, y1, x2, y2 = queries.pop(0)
