@@ -37,3 +37,9 @@
 #### 9월 활동 
 
 ![image](https://user-images.githubusercontent.com/77471673/137727285-6bbe201a-5e84-4942-9afa-e63825c7bace.png)
+
+
+
+#### 10월 활동
+
+![image-20211110190030164](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211110190030164.png)
