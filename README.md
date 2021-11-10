@@ -42,4 +42,4 @@
 
 #### 10월 활동
 
-![image-20211110190152400](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211110190152400.png)
+![image](https://user-images.githubusercontent.com/77471673/141092412-93e2d5e6-e295-4e3c-a8c9-c6a80da6fb6f.png)
